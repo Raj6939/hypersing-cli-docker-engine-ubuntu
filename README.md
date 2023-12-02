@@ -1,6 +1,8 @@
 # hypersing-cli-docker-engine-ubuntu
 
-Pre-requisite
+Pre-requisite  
+  - Ubuntu System
+  - Minimum 8GB RAM
   - Docker Engine for Ubuntu
 
 # Docker Engine Installation 
