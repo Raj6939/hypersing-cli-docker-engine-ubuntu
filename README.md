@@ -170,12 +170,12 @@ Now, you can start hypersign cli setup by following below commands
 
      If you have any queries, feel free to ask in the Discord ```devs``` channel or in the Telegram group.
 
-  2. To use SSI Playground in UI, navigate to ```http://localhost:9002/``` in your browser, and sign up to the Hypersign ID web wallet and login 
+  2. To use SSI Playground in UI, navigate to ```http://localhost:9002/``` in your browser, and sign in with the Hypersign ID web wallet. 
 
      ![image](https://github.com/Raj6939/hypersing-cli-docker-engine-ubuntu/assets/67961128/6b84cbf0-86be-4f04-974c-43bde087de30)
 
 
-  3. Once you set up your wallet with a token balance, learn how to use SSI Playground through this SSI Workshop YouTube [Video](https://www.youtube.com/live/HCB5bObMlN4?si=3m1YputtXDNYQD3D)
+  3. Once all things are ready, learn how to use SSI Playground through this SSI Workshop YouTube [Video](https://www.youtube.com/live/HCB5bObMlN4?si=3m1YputtXDNYQD3D)
     
      
      
