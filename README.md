@@ -16,7 +16,7 @@ To install the docker engine for Ubuntu follow the steps in the official documen
 > To know latest version of ```hypersign-ssi cli``` please checkout realese here
   https://github.com/hypersign-protocol/hypersign-cli/releases
 
-In this documentation we have used v0.1.9 hypersign-cli version
+In this documentation, we will use v0.1.9 hypersign-cli version
 
 To install the Hypersign SSI Cli type the below command in your terminal.
 ```
