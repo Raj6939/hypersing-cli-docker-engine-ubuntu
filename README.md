@@ -144,6 +144,63 @@ Now, you can start hypersign cli setup by following below commands
    
    ![image](https://github.com/Raj6939/hypersing-cli-docker-engine-ubuntu/assets/67961128/b7bbf222-9461-4e63-ac44-070182a2b488)
 
+   Now we have installed the CLI and set up Hypersign Identity Infrastructure. Through this, We can use all the services in the local environment.
+   
+# What Next?
+
+  Now to use Hypersign SSI infrastructure, Follow the below instructions:  
+
+  1. Set up the Wallet and get the token balance in the Hypersign Wallet.
+
+     1. Navigate to ```https://wallet-prajna.hypersign.id/```. Sign up with Google and you will get the below screen.
+
+     ![image](https://github.com/Raj6939/hypersing-cli-docker-engine-ubuntu/assets/67961128/f9381ee4-015e-4c69-bd0a-443fae6ded56)
+
+     2. Now Click on Transfer and you will see the transfer section. You can see the balance is 0. Copy your Wallet Address and get the balance for it by below (a) or (b) option
+
+        ![image](https://github.com/Raj6939/hypersing-cli-docker-engine-ubuntu/assets/67961128/129fd6da-ec5d-40af-b8fe-dcbd16889ffb)
+
+        
+          1. Join our Discord server [prajna-faucet-1](https://discord.gg/S85P6crefd), you will directly enter into ```prajna-faucet-1``` channel. Now by typing this command ```$request <wallet-address>```               you will get a Token balance for your wallet address.
+          2. Join our Telegram Channel  [here](https://t.me/hackdid) and send wallet address in chat
+
+     Refresh your Transfer section in your wallet and you will receive a balance of 5 HID.
+
+     ![image](https://github.com/Raj6939/hypersing-cli-docker-engine-ubuntu/assets/67961128/ce5da14c-08e3-4a83-b25f-8544909395d3)
+
+     If you have any queries, feel free to ask in the dicord devs channel or in the telegram group.
+
+  2. To use SSI Playground in UI, navigate to ```http://localhost:9002/``` in your browser, and sign up to the Hypersign ID web wallet and login 
+
+     ![image](https://github.com/Raj6939/hypersing-cli-docker-engine-ubuntu/assets/67961128/6b84cbf0-86be-4f04-974c-43bde087de30)
+
+  
+
+  3. Once you set up your wallet with a token balance, learn how to use SSI Playground through this SSI Workshop YouTube [Video](https://www.youtube.com/live/HCB5bObMlN4?si=3m1YputtXDNYQD3D)
+    
+     
+     
+     
+
+
+     
+
+
+     
+
+
+
+     
+
+
+     
+
+
+     
+     
+  
+  
+
 
 
   
